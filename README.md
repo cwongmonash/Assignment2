@@ -1,1 +1,2 @@
-In this assignment we are learning to create and merge branches
+In this assignment we are learning to create and merge branches.
+
